@@ -33,9 +33,9 @@ Test a JWT:
 venv/bin/python jwt-attacker.py --jwt <token-here>
 ```
 
-![image](https://github.com/user-attachments/assets/04651fd9-0478-4be5-ba8d-dfbf7aaa576d)
-
 Example:
 ``` bash
 venv/bin/python jwt-attacker.py --jwt eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c
 ```
+
+![image](https://github.com/user-attachments/assets/04651fd9-0478-4be5-ba8d-dfbf7aaa576d)
